@@ -1,0 +1,45 @@
+Operadores de Atribuição  
+
+  =  ->  Atribuição
+  +=  ->  Adição
+  -=  ->  Subtração
+  /=  ->  Divisão
+  *=  ->  Multiplicação
+  %=  ->  Resto
+
+Operadores de Comparação
+
+  ==  ->  Igual // Ele compara o valor, mas não compara o tipo do valor // NUNCA USE ESSE AQUI
+  ===  ->  TOTALMENTE Igual // Ele verifica o tipo do dado!
+  !=  ->  Diferente // Ele compara o valor, mas não compara o tipo do valor
+  !==  ->  TOTALMENTE Diferente // Ele verifica o tipo do dado! 
+  >  ->  maior
+  >=  ->  maior ou igual
+  <  ->  menor
+  <=  ->  mneor ou igual
+
+Operadores Lógicos
+
+  &&  ->  E
+    true && true = true
+    true && false = false
+    false && false = false
+  
+  ||  -> Ou
+    true || true = true
+    true || false = true
+    false || false = false
+
+  !  ->  Negação
+    !true = false
+    !false = false
+
+Operadores Ternário ou Condicional
+
+  ?  ->  se
+  :  ->  se não
+
+Operadores
+
+  typeof  ->  ele dar o poder de saber qual tipo da variavel
+  delete  ->  deletar parametros de um obejto...
